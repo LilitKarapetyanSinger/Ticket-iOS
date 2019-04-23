@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+Barev111
+=======
+Barev2
+>>>>>>> XXX
+Hajox
